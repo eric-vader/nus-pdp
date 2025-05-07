@@ -231,7 +231,7 @@ We say Gradient Descent converges if it finds the global minimizer.
 
 #### Illustration
 
-See the [animation](python/grad-descent-animation.gif) for how gradient descent evolves over time.
+See the [animation](https://eric-han.com/teaching/demo/grad-descent-animation.gif) for how gradient descent evolves over time.
 
 ![$x$-values after 10 steps of gradient descent with various learning rates on $L(x) = x^2$.](python/grad-descent-final-frame.pdf)
 
